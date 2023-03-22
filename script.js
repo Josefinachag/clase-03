@@ -1,6 +1,6 @@
-var losDigimon, 
-var elArreglo, 
-var laPosicion, 
+var losDigimon; 
+var elArreglo; 
+var laPosicion; 
 var elColor;
 
 function preload() {
